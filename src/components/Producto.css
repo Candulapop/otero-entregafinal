@@ -1,0 +1,33 @@
+.ContenedorProductos{
+    display:grid;
+    background-color: rgb(255, 0, 43);
+    margin: 25px;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+
+.ConditionProducto{
+    color:rgb(52, 52, 202);
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+
+.TitleProducto{
+    color:brown;
+    background-color: black;
+}
+
+.PriceProducto{
+    color:blueviolet;
+    background-color:blue
+}
+
+.DetalleProducto{
+    background-color: black;
+}
+
+.ElVerDetalle{
+    background-color: black;
+}
